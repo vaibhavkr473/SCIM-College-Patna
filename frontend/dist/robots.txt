@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://scim-college-patna-cew7.vercel.app/sitemap.xml

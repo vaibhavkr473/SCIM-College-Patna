@@ -25,6 +25,8 @@ project/
 
 ### Backend
 
+Configure `backend/.env` with `MONGODB_URI`, `JWT_SECRET`, `SMTP_EMAIL`, and `SMTP_PASS` before starting the server (`SMTP_PASSWORD` is also accepted). Gmail SMTP requires an app password for the configured account; spaces in the displayed app password are ignored.
+
 ```bash
 cd backend
 npm install
