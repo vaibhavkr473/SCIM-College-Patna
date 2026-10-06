@@ -44,8 +44,8 @@ npm run dev     # Starts dev server on port 5173
 
 ## Admin Login
 
-- **Email:** vaibhavkr387@gmail.com
-- **Password:** Vaibhav1122@
+- **Email:**
+- **Password:**
 
 ## Features
 
